@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cwb.glancesampleapp.glanceMainActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>
+<!-- From: file:/C:/Users/test1/Desktop/elec4330/Lab7/BLEFrameworkAS_rev6638/android/glanceSampleApp/res/menu/glance_main.xml -->

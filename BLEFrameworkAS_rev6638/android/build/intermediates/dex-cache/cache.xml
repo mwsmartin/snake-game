@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\test1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\test1\Desktop\elec4330\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-7cdc692470a3a90499197e8512e327112c14aaf4.jar" />
+    </item>
+    <item
+        jar="C:\Users\test1\Desktop\elec4330\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\test1\Desktop\elec4330\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\pre-dexed\debug\classes-30caac3ede6f4630b2a9c7be1df6a3b696ae76cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\test1\Desktop\elec4330\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\test1\Desktop\elec4330\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-689328f25a38f87a6dd99d6cae9b0350e8c5661b.jar" />
+    </item>
+    <item
+        jar="C:\Users\test1\Desktop\elec4330\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\exploded-aar\android\BLEFramework-release\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="445421ef35834659136cd939a0b4b21067538584">
+        <dex dex="C:\Users\test1\Desktop\elec4330\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\pre-dexed\debug\classes-cdd16fb638bcca4ccce20f08ae150ef2b208e3cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\test1\Desktop\elec4330\Lab7\BLEFrameworkAS_rev6638\android\achartengine-1.2.0\achartengine-1.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="af3a83a1bed99c5ff0d03d0a1135e3b5c66a5096">
+        <dex dex="C:\Users\test1\Desktop\elec4330\Lab7\BLEFrameworkAS_rev6638\android\glanceSampleApp\build\intermediates\pre-dexed\debug\achartengine-1.2.0-9a1476a61b5d0f92e9f4032e66bc6b087de0b0f7.jar" />
+    </item>
+
+</items>

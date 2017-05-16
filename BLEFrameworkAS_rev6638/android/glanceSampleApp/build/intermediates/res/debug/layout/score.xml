@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/highest"
+        android:textSize="50px"
+        android:text="Highest Score :"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:id="@+id/first_score"
+        android:textSize="50px"/>
+
+
+</LinearLayout><!-- From: file:/C:/Users/test1/Desktop/elec4330/Lab7/BLEFrameworkAS_rev6638/android/glanceSampleApp/res/layout/score.xml -->

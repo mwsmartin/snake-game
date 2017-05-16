@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:background="#F0F0F0">
+
+
+    <Button
+        android:id="@+id/exit_game"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/score"
+        android:textSize="28px"
+        android:text="Exit" />
+    <Button
+        android:id="@+id/stream"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:textSize="28px"
+        android:text="Start Streaming"
+        />
+
+    <TextView
+        android:id="@+id/button_location"
+        android:textSize="50px"
+        android:layout_width="match_parent"
+
+        android:layout_height="50dp"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:id="@+id/frame"></FrameLayout>
+</LinearLayout>
